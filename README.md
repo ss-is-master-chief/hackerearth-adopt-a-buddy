@@ -2,7 +2,7 @@
 
 [LinkedIn Post](https://www.linkedin.com/posts/linksumitsaha_hackerearth-machinelearning-weekendlearning-activity-6703286416455057408-Jggy/)
 
-Rank: 31
+Rank: 31 (Top 1%)
 
 Participants: 5000+
 

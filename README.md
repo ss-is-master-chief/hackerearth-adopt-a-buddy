@@ -1,5 +1,14 @@
 ## Hackerearth Machine Learning Challenge: Adopt a Buddy
 
+[LinkedIn Post](https://www.linkedin.com/posts/linksumitsaha_hackerearth-machinelearning-weekendlearning-activity-6703286416455057408-Jggy/)
+
+Rank: 31
+
+Participants: 5000+
+
+![image](https://user-images.githubusercontent.com/26060275/193403505-ca2710e4-c4fa-4aa7-b5bc-bc778d8ad753.png)
+
+
 ### Pre-Processing:
 1. Removed categorical samples from train which did not belong in test for "Color Type" and "X1"
 2. Since all NULL values in "Condition" belonged to Class=2.0 of "Breed", it was filled with a unique value -1
